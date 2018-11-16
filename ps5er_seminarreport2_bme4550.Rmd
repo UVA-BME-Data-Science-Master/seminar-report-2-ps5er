@@ -1,0 +1,47 @@
+---
+title: "BME 4550 Second Seminar Report"
+author: "Pallavi Swarup"
+date: "November 15, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## Cells and their matrix: a struggle for power
+
+## Thomas H Barker, Professor, Departments of Biomedical Engineering and Cell Biology, University of Virginia 
+
+## October 31st, 2018, Wilsdorf Hall 200 3:00PM-4:15PM
+
+### Overarching Research Topic
+
+Dr. Barker's work primarily focused on the role of the extracellular matrix in directing tissue homeostasis and disease, particularly on mesenchymal stroma cells (fibroblasts) and their ECM microenvironment. Chemical modifications to the ECM were induced and the effect on the engagement between cells and their environment and their response to disease was observed.
+
+### Research Questions and Gaps in Knowledge Addressed
+
+The primary gap in knowledge that Dr. Barkers's Lab addressed is that microscale variations of stiffness and how they relate to altered ECM composition and/or cellular phenotypes and functions have heretofore remained unexplored.
+
+### Methods and Experimental Design
+
+In idiopathic pulmonary fibrosis, fibrosis-associated fibroblasts (FAFs) accumulate within regions of high synthetic and ECM remodeling activity, termed fibroblastic foci (FF). A stiffer ECM is associated with muture fibrosis promotes fibroblast mediates assembly and remodeling of the ECM. Mechanical signals can thus increases the amount of interaction between the ECM and cytoskeletal systems which can simulate profibrotic phenotypes. 
+
+The study used mesenchymal stroma cells and used atomic force microscopy mapping of tissue elasticity, with the goal of mapping the microarchitecture of the heterogenous fibrotic features of IPF. Fibroblastic foci are soft an nonlinearly elastic, and mature fibrosis have stiff and linearly elastic properties. To see the differences between the two, hitsochemical staining was conducted to map their mechnical properties. Using these results, tissue modulus was measured, in which it was observed that substantial strain stiffening of the resultant modulus occured. These calculations helped generate calculations for Youngs modulus, i which it was found that FF were highly nonlinear, whereas MF was highly linear. 
+
+In order to see the activation of normal FAFs in vitro, two cultures were studied with varied ECM compositions. Different polymerized collagen gels were used to primarily affect the rate of normal fibroblast activation. They found strong suppression of MRTF nuclear translocation in both normal and IPF lung fibroblasts on soft ColI gels, in particular compared with HDFC and FN-gl, which both strongly drove MRTF-A into the nucleus. These data supported the hypothesis that both ECM mechanics and their biochemical constituency strongly influence fibroblast activation and indicate that provisional ECMs activate fibroblasts even when extremely soft.
+
+### Take Home Messages/Conclusions
+
+Fibroblastic foci (FF),the regions of active fibrogenesis in idiopathic pulmonary fibrosis (IPF), are surprisingly of similar modulus as normal lung tissues and are nonlinearly elastic. In vitro, provisional ECMs with mechanical properties similar to those of FF activate both normal and IPF patient-derived fibroblasts, whereas type I collagen ECMs with similar mechanical properties do not. 
+
+### Questions 
+
+1. How was pulmonary fibrosis chosen as the disease seen to most prominently effect the extracellular matrix- what other diseases could have been chosen to similarly affect the ECM?
+
+2. How do diseases mechanically affect the ECM and how is mechanical force simulation on cells and the ECM an accurate reprsentation of what happens when one is infected by disease?
+
+
+
